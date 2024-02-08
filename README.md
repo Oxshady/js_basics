@@ -1,1 +1,1 @@
-# training on java script basics
+# training on javascript basics
